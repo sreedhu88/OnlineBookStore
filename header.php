@@ -24,8 +24,8 @@
         <nav>
             <ul>
                 <li><a href='index.php'>Home</a></li>
-                  <li><a href='Books.php'>Books</a></li>
-                   <li><a href='Stationary.php'>Stationary</a></li>
+                  <li><a href='books.php'>Books</a></li>
+                  
                 <li><a href='register.php'>Register</a></li>
                          <li><a href='contactus.php'>Contact Us</a></li>
 

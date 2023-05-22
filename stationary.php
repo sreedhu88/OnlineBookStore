@@ -1,6 +1,6 @@
 <?php  
 session_start();
-    include_once ("dbconnect.php");
+    include ("dbconnect.php");
      $q="select * from stationary";
    $res=mysqli_query($conn,$q) or die("Can't Execute Query...");
 ?>

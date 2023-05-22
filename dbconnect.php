@@ -2,7 +2,7 @@
 	// Database details
 	$servername = "localhost";
 	$username = "root";
-	$password = "";
+	$password = "Admin123";
 	$dbname = "book_store_db";
 
 	// Create connection
